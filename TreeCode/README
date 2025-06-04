@@ -4,3 +4,6 @@ pip install -r requirements.txt
  - open the command prompt and do cd project folder path
  - pip install -r requirements.txt
 
+ItreeApp is not commented but is very similar to ItreeNOAPP.
+ItreeAPP has a gui attached to it where you can select the file through the gui
+ItreeNOAPP has no gui and the file you wish to read and the one you want to output to must be modified in the python code.
