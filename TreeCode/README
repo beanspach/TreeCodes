@@ -1,3 +1,8 @@
+YOU MUST MAKE SURE THAT PYTHON IS INSTALLED
+To check open command prompt and type: python --version
+if you get an error python is NOT installed.
+if you get a version number then you are good to continue.
+
 To install dependencies run:
 pip install -r requirements.txt
  - move the requirements.txt into your project folder
