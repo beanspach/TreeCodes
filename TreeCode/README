@@ -1,2 +1,6 @@
 To install dependencies run:
 pip install -r requirements.txt
+ - move the requirements.txt into your project folder
+ - open the command prompt and do cd project folder path
+ - pip install -r requirements.txt
+
